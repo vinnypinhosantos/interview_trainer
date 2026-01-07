@@ -1,0 +1,7 @@
+{
+  "questions": [
+    { "id": 1, "text": "Explain SOLID principles in C#." },
+    { "id": 2, "text": "What is Dependency Injection?" },
+    { "id": 3, "text": "Explain async and await in .NET." }
+  ]
+}
